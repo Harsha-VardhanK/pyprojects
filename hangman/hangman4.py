@@ -93,5 +93,5 @@ while not end_of_game:
     #Check if user has got all letters.
     if "_" not in display:
         end_of_game = True
-        print("You win.")
+        print("You win. the game")
 
