@@ -1,12 +1,3 @@
-#Write your code below this line 👇
-
-
-
-
-
-
-
-#Write your code above this line 👆
 # Define a function called paint_calc() so that the code below works.   
 import math
 def paint_calc(height, width, cover):
